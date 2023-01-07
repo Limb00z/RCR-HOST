@@ -192,3 +192,19 @@ nav {
     padding-top: 50px;
     padding-bottom: 20px;
 }
+
+.plan .plan-btn{
+    background-color: #2cc762;
+    color: #fff;
+    font-size: 24px; 
+    height: 75px;
+    line-height: 75px;
+    cursor: pointer;
+
+}
+
+.plan .recommended{
+    background-color: #f45c57;
+
+}
+
